@@ -82,7 +82,8 @@
   * Installation:
     * As part of MongoDB exporter
 
-![Screenshot 2023-09-28 at 6.50.56 AM.png](..%2F..%2F..%2F..%2F..%2F..%2FDesktop%2FScreenshot%202023-09-28%20at%206.50.56%20AM.png)
+<img width="1038" alt="Screenshot 2023-09-28 at 6 50 56 AM" src="https://github.com/HimanshubhusanRath/k8s-mongodb-grafana/assets/40859584/e9f374c2-4586-42a0-9390-dc6d79d8fabb">
+
 
 
 ## 3. Access the components and check the metrics data:
@@ -104,7 +105,8 @@
 
 ### NOTE: 
 * Kubernetes version used in this project:
-![Screenshot 2023-09-28 at 8.14.23 AM.png](..%2F..%2F..%2F..%2F..%2F..%2FDesktop%2FScreenshot%202023-09-28%20at%208.14.23%20AM.png)
+<img width="1547" alt="Screenshot 2023-09-28 at 8 14 23 AM" src="https://github.com/HimanshubhusanRath/k8s-mongodb-grafana/assets/40859584/637d463d-0847-42e9-b50f-bbb39cff7276">
+
 
 
 
